@@ -3,6 +3,16 @@
  [banner]:https://lineageos.org/images/2024-02-14/hero.jpg ""
 * Fork of Lineage with features mentioned below
 
+Date - 17/04/2024
+* Implement Island notification feature
+* Forward port 'HD & wifi calling statusbar icons'
+* Nuked Secure lock and app lock [TMP]
+* Require unlocking to turn on hotspot
+* QuickSettings: Added FPS Info Tile
+* Allow APK signature scheme v1 for API 30+ apps
+* Add AdGuard DNS as a private DNS Provider
+* Allow overriding dex2oat CPU variant
+
 Date - 20/03/2024
 * Show a bolt ⚡ when charging
 * Add New Lockscreen clock style
