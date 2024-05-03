@@ -3,6 +3,23 @@
  [banner]:https://lineageos.org/images/2024-02-14/hero.jpg ""
 * Fork of Lineage with features mentioned below
 
+Date - 04/05/2024
+* Fixed Quick settings bluetooth bug
+* Introduce Lockscreen Style
+* Add support for Lockscreen clock fonts
+* Add support for Custom fonts for Custom LS Clocks
+* base: disable some DEBUG logspill
+* SystemUI: Disable blur wakeup animation
+* Implement Reverse-engineered Smartspace
+* Port Code linaro lmkd optimizations to AOSP
+* lmkd: disable loggings to kernel trace
+* Switch to Trebuchet Ext Launcher
+* launcher: Add toggle to disable scroll vibration
+* launcher: Allow locking tasks to recents
+* launcher: add support for custom themed icon pack
+* launcher: Extend/Integrate themed icons to recents
+* launcher: Import themed icons from TeamFiles Pixel Launcher
+
 Date - 17/04/2024
 * Implement Island notification feature
 * Forward port 'HD & wifi calling statusbar icons'
@@ -60,3 +77,4 @@ Credits
 * CrDroid Android
 * Project Matrixx
 * Superior/Extended
+* VoltageOS
