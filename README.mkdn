@@ -1,7 +1,6 @@
-![alt text][banner]
+### Fork of Lineage with features mentioned below
 
- [banner]:https://lineageos.org/images/2024-02-14/hero.jpg ""
-* Fork of Lineage with features mentioned below
+- looking for custimization? Go inside Display > LineageExt Parts
 
 Date - 04/05/2024
 * Fixed Quick settings bluetooth bug
