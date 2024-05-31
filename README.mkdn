@@ -1,6 +1,24 @@
 ### Fork of Lineage with features mentioned below
 
-- looking for custimization? Go inside Display > LineageExt Parts
+Date - 30/05/2024
+* Move LineageExt Settings to Home Page
+* Split LineageExt Settings in different categories
+* Add application downgrade feature
+* Allow toggling netflix spoofing
+* Add options to hide adb and developer settings
+* Introduce Depth Wallpaper feature
+* Allow to quickly open Running Services from meminfo view
+* add omnijaws lockscreen customization
+* allow disabling ripple effect on unlock
+* Implement background process killer
+* Add tile to show volume panel
+* treewide: silence various logspam
+* Clock Styles: Add iOS widget to iOS Clock style
+* Import xdroid-OSS collapsing toolbar layout
+* services: Unboost MAX_CACHED_PROCESSES
+* Implement new screenshot sound effect
+* Import some UI sounds from Samsung S21 FE
+* Default to true for HeadsUp notifications
 
 Date - 04/05/2024
 * Fixed Quick settings bluetooth bug
@@ -77,3 +95,4 @@ Credits
 * Project Matrixx
 * Superior/Extended
 * VoltageOS
+* RisingTechOSS
