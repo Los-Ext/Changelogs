@@ -1,5 +1,8 @@
 ### Fork of Lineage with features mentioned below
 
+Known issue / bugs
+* Volume panel is laggy [will fix in QPR3]
+
 Date - 30/05/2024
 * Move LineageExt Settings to Home Page
 * Split LineageExt Settings in different categories
