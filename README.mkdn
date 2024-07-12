@@ -1,7 +1,24 @@
 ### Fork of Lineage with features mentioned below
 
-Known issue / bugs
-* Volume panel is laggy [will fix in QPR3]
+Date - 13/07/2024
+* QPR3 - JULY 2024 Security Patch
+* add brightness slider position
+* add statusbar brightness control
+* add Statusbar Clock background chip
+* add notification counters
+* Add ability to toggle bluetooth battery level
+* add more options in Network traffic mode
+* Split DT2S into lockscreen and status bar
+* Navigation Bar: Add Hide IME space feature
+* Allow disabling qs on secure lockscreen
+* Add kill button to notification guts
+* display: Add simple RGB color balance transform
+* Decrease minimum pin length for auto confirm
+* Disable automatic system server heap dumps
+* Add deep sleep preference controller
+* wifi hotspot: add client and AP band manager
+* Add affordance shorcut for AI Voice Assistant
+* many more fixes and optimisations
 
 Date - 30/05/2024
 * Move LineageExt Settings to Home Page
@@ -22,6 +39,9 @@ Date - 30/05/2024
 * Implement new screenshot sound effect
 * Import some UI sounds from Samsung S21 FE
 * Default to true for HeadsUp notifications
+
+Known issue / bugs
+* Volume panel is laggy [will fix in QPR3]
 
 Date - 04/05/2024
 * Fixed Quick settings bluetooth bug
