@@ -1,5 +1,18 @@
 ### Fork of Lineage with features mentioned below
 
+Date - 22/07/2024
+* Traffic Indicator might not work first time
+[to fix it change battery icon or any statusbar icon]
+* option to Remove IME space under keyboard feature
+* Allow to hide screen capture status from apps
+* colors: Introduce Reality display engine
+* Introduce Adaptive sound engine service
+* Add Sound Engine QS tile
+* Don't send interaction hint for unnecessary events
+* Apply battery style to battery status chip
+* Introduce preferred network tile
+* Sync Source | Various fixes and improvement
+
 Date - 13/07/2024
 * QPR3 - JULY 2024 Security Patch
 * add brightness slider position
