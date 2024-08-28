@@ -1,5 +1,28 @@
 ### Fork of Lineage with features mentioned below
 
+Date - 28/08/2024
+* Strong Integrity by Default
+* QPR3 - AUG 2024 Security Patch
+* Redesign Settings dashboard UI
+* Disable memtag for different processes
+* config: Remove useless addon.d file
+* Add Incall vibration option
+* Add vibration patterns from OOS
+* Allow choosing a custom vibration pattern
+* Add Status bar clock customizations
+* Implement cutout force full screen
+* Add User toggle for GMS/Keystore spoof
+* Add support for json-based (PIF) spoofing
+* Added option to directly update Play Integrity Fix properties
+* Added option to display currently set PIF properties
+* Add QS tile layout settings / A11 QS UI Style
+* Spoof encryption status by Default
+* [FIXED]: Network traffic Indicator
+* Disable some more Debugs/Logs
+* Add USB Configuration in System Settings
+* update various features from Rising/Crdroid
+* Enable thinLTO optimizations at various place
+
 Date - 22/07/2024
 * Traffic Indicator might not work first time
 [to fix it change battery icon or any statusbar icon]
