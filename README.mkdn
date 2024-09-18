@@ -1,5 +1,21 @@
 ### Fork of Lineage with features mentioned below
 
+Date - 18/09/2024
+* QPR3 - SEPT 2024 Security Patch
+* SoundEngine: Remove audio presets
+* SoundEngine: expose surround/loudness level/ bass boost settings
+* ExternalStorageProvider: Conditionally remove SAF restrictions
+* config: Add Cloudflare as default ntp server
+* HACK: telephony: Conditionally force enable LTE_CA
+* Introduce dynamic VoLTE & VoWiFi icons
+* treewide: Prevent various memory leak
+* treewide: Prevent various NPE (nullness check)
+* native: Enable thinLTO optimizations at various place
+* Import cortex-strings strlen for A7/A15/A53/A53.A57
+* SurfaceFlinger: Don't cleanup resources from previous frame
+* Add an option to hide/show scrollbar in app drawer [launcher]
+* update various features from Rising/Crdroid
+
 Date - 28/08/2024
 * Strong Integrity by Default
 * QPR3 - AUG 2024 Security Patch
