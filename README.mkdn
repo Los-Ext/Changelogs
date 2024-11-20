@@ -1,5 +1,18 @@
 ### Fork of Lineage with features mentioned below
 
+Date - 20/11/2024
+* November 2024 Security Patch
+* config: Add missing Permission for Gapps
+* Add Fingerprint authentication vibration
+* Allow App downgrade by default | Remove Toggle 
+* SystemUIClocks: Drop Broken Clocks
+* BlackTheme: Affect more background colors
+* GameSpace: Introduce Quick Start app feature
+* Track Play Integrity fix json from our Org  
+* Add Divider to designed battery capacity
+* treewide: fix various null pointer Exception
+* fix various issues in launcher3 (Trebuchet)
+
 Date - 18/09/2024
 * QPR3 - SEPT 2024 Security Patch
 * SoundEngine: Remove audio presets
