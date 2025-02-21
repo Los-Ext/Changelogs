@@ -1,0 +1,75 @@
+# Fork of Lineage with features mentioned below
+
+---
+### [Ext Lab]
+Customizations
+- Icon pack
+- Icon Shape
+- Signal icon style
+- WiFi icon style
+- Battery style
+- Font style
+- Lockscreen clock font
+
+StatusBar
+- Data Disabled Indicator
+- Show 4G icon 
+- Clock Background chip
+- Network traffic monitor
+
+Quick Settings
+- Show data usage
+- Secure lockscreen
+- Brightness Slider
+- Tile layout and style 
+
+Gestures
+- Swipe to Screenshots
+- Tap to sleep
+- Tap to sleep statusbar
+
+Miscellaneous 
+- Kill background process
+- Sensor blocker 
+- Freeform & SideBar
+
+Security
+- Ignore windows Secure flags
+- Hide Screen capture status
+- No storage Restriction
+- Hide Developer status
+
+Lockscreen
+- Ripple effect
+- Fingerprint action vibration
+- OmniJaws Weather Settings
+
+Spoofs
+- GMS spoof [Toggle | Update json]
+- Unlimited Photos storage
+- Unlock Higher fps in games
+
+---
+### [Settings]
+Network
+- Hotspot: Add client manager
+- Allow disabling private DNS for VPN
+- Add a toggle to force LTE_CA
+
+Display
+- Cutout force full screen
+
+Sound
+- Per-App Volume Control
+
+Navigation
+- Add Circle To Search
+- long press on navbar to search
+- Hide IME space under keyboard
+
+---
+### [Optimizations]
+- Enable global -O3
+- switch to jemalloc by default
+- Enable LTO (full/thin) at various places 
+- Optimize arm-routine, art, bionic, pgo, sqlite, libjpeg-turbo
