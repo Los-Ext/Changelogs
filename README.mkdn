@@ -20,7 +20,9 @@ StatusBar
 Quick Settings
 - Show data usage
 - Secure lockscreen
+- Better landscape QS
 - Brightness Slider
+- Brightness Slider Style
 - Tile layout and style 
 
 Gestures
